@@ -1,1 +1,5 @@
-
+The automated rain wiper system is used to detect rainfall and activate automobile automatic rain wiper without drivers to focus on their primary task of driving.
+The distraction eliminated with the development of this product is the manual adjustment of windshield wipers when driving. The few seconds that a driver takes their 
+attention off the road to adjust a knob while driving in poor weather conditions could potentially lead to a car accidents.If we apply sensor on glass which senses 
+the act of sprinkling water,by automation the wiper will be operating automatically. When the water hits the sensor,it will send signal to the system thus moving 
+the wiper motor. once the wiper did not detect any water,the wiper will stop.

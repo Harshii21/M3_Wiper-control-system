@@ -1,16 +1,7 @@
-Integrated circuit 
-Transistor(NPN) 
-Diode 
-Resistor 
-Relay 
-Transformer 
-Wiper motor 
-Rain sensor 
-Capacitor(ceramic) 
-Pc board 
-windscreen
-Windscreen frame
-Wiper  rubber blade
-Cable
-Power system 
-Electrolytic capacitor 
+Components
+    STM32F4O7VG MICROCONTROLLER BOARD - The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrollers'
+    capabilities to make it simple for users to create audio-based applications. 
+    
+    HIGH LEVEL REQUIREMENTS
+     
+    

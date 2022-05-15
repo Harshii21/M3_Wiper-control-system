@@ -47,7 +47,8 @@ increased in accordance with the previous one. The microcontroller (vehicle) is 
   ## SWOT ANALYSIS
  # STRENGTH
  Low Budget
-REputation is Good
+ 
+Reputation is Good
 
 
 #  ENGINE ON STATE
